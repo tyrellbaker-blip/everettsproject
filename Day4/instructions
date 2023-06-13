@@ -1,0 +1,6 @@
+Day 4: Mad Libs
+Create a new Python file in this package(Day4).
+Use the input() function to ask the user for a noun, verb, adjective, and adverb.
+Use formatted strings (e.g. f-strings) to create a funny sentence using those variables.
+Print the sentence to the console using the print() function.
+Run the program to make sure the sentence is created correctly.

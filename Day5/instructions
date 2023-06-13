@@ -1,0 +1,8 @@
+Create a new Python file in this package(Day5).
+Create a list of words for the game.
+Use the import statement to import the random module.
+Use the random.choice() function to choose a random word from the list.
+Define variables to keep track of the hidden word and the guessed letters.
+Define a loop that allows the user to keep guessing until they guess all the letters in the word or run out of attempts.
+Give the user feedback after each guess (e.g. "Correct letter", "Incorrect letter", "You win!", "You lose.").
+Run the program to make sure it works correctly.

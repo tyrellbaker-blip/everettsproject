@@ -1,0 +1,12 @@
+Day 1: Hello World and Data Types
+Create a new Python file in this package(Day1)
+Write a program that prints out the message "Hello World" to the console using the print() function.
+Define a variable that stores a string value, using quotes ("" or '').
+Print the value of the variable using the print() function.
+Define an integer variable by setting it equal to an integer number without quotes.
+Print the integer variable using the print() function.
+Define a float variable by setting it equal to a decimal number with a decimal point.
+Print the float variable using the print() function.
+Define a boolean variable by setting it equal to either True or False.
+Print the boolean variable using the print() function.
+Run the program to make sure each data type is printed correctly.

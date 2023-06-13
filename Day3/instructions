@@ -1,0 +1,8 @@
+Day 3: Guessing Game
+Create a new Python file in this package(Day3).
+Use the import statement to import the random module.
+Use the random.randint() function to generate a random number between 1 and 10.
+Use the input() function to ask the user to guess the number.
+Define a loop that allows the user to keep guessing until they get the correct number or run out of attempts.
+Give the user feedback after each guess (e.g. "Too high", "Too low", "Correct!").
+Run the program to make sure it works correctly.
