@@ -1,0 +1,10 @@
+Day 6: ATM Simulator
+Create a new Python file in this package(Day6).
+Load the user's balance from a file if one exists, otherwise set it to zero.
+Use the input() function to ask the user for their PIN number.
+Define a function for depositing money into the user's account.
+Define a function for withdrawing money from the user's account.
+Define a function for viewing the balance.
+Use conditionals (e.g. if statements) to perform the appropriate action based on the user's input.
+Update the user's balance and save it to a file after each transaction.
+Run the program to make sure it works correctly.

@@ -1,0 +1,8 @@
+Day 2: Calculator
+Create a new Python file in this package(Day2).
+Use the input() function to ask the user for two numbers.
+Store the input in variables and only allow numeric values to be entered.
+Define functions for addition, subtraction, multiplication, and division that take two parameters (the user's input values).
+Use the return keyword to return the result of each arithmetic operation.
+Call each function with the user's input values and print the result using the print() function.
+Run the program to make sure it works correctly.
